@@ -9,9 +9,6 @@ public class Penguin extends Bird {
 		this.flippers = flippers; 
 	}
 	
-	public int increaseFippers() {
-		return flippers * 40; 
-	}
 	
 	public void swim() {
 		System.out.println("Splash");

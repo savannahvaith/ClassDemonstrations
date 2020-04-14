@@ -18,6 +18,7 @@ public class Animal_App {
 		System.out.println("Penguin:");
 		Penguin pingu = new Penguin("short", 2);
 		pingu.eat(); // Animal class
+		
 					
 		
 		pingu.sleep(); // Animal class
