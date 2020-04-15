@@ -26,6 +26,16 @@ public class Animal_App {
 		pingu.layEggs(); // Bird class
 		
 		pingu.dance(); // Penguin class
+		
+		
+//		Animal a = new Bird("Fluffy"); 
+		
+		
+		
+		
+	
+		
+		
 //		
 		
 		
