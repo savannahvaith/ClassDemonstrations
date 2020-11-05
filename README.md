@@ -1,4 +1,12 @@
-# Class Demonstrations
+# Java Concepts
+
+- Enums
+- Exceptions
+- Generics
+- Pass By Reference / Value
+- Singleton Design Pattern
+- Scanners
+- Static keyword
 
 ## OOP Principles
 
@@ -16,4 +24,5 @@ Parent and child relationship is established.
 ### Polymorphism 
 Allows for method overloading and method overriding 
 
+### Abstraction 
 
